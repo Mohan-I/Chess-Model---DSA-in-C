@@ -6,4 +6,7 @@ OBJECTIVE:
 
  -->
 
-<p>Chess-Model: Procedural Engine in CA minimalist chess logic engine implemented in C99, focusing on procedural programming and Data Structures & Algorithms (DSA). This project simulates an $8 \times 8$ environment specifically designed to handle the movement and collision logic for two high-impact pieces: the White Queen and the Black Pawn.🎯 Project ObjectiveThe goal is to implement a strictly non-OOP chess prototype. Without classes or inheritance, the engine relies on 2D array mapping, bit-flagging (or enums), and procedural validation functions to enforce standard international chess rules.</p>
+<p>Chess-Model: Procedural Engine in CA minimalist chess logic engine implemented in C99, focusing on procedural programming and Data Structures & Algorithms (DSA). This project simulates an $8 \times 8$ environment specifically designed to handle the movement and collision logic for two high-impact pieces: the ♛ White Queen and the ♙ Black Pawn.</p>
+<br />
+<p>🎯 Project ObjectiveThe goal is to implement a strictly non-OOP chess prototype. Without classes or inheritance, the engine relies on 2D array mapping, bit-flagging (or enums), and procedural validation functions to enforce standard international chess rules.</p>
+
