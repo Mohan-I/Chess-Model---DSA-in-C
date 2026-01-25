@@ -10,3 +10,4 @@ OBJECTIVE:
 <br />
 <p>🎯 Project ObjectiveThe goal is to implement a strictly non-OOP chess prototype. Without classes or inheritance, the engine relies on 2D array mapping, bit-flagging (or enums), and procedural validation functions to enforce standard international chess rules.</p>
 
+<p>Progess Goal : To be Self-disciplined at Programming and Practice with coach bots or take on a roster of unique characters with new additions every month.</p>
