@@ -55,7 +55,7 @@ int main(){
     }
 
     printf("\n 1.Ahead 2.Back 3.Exit Game");
-    printf("\n 1. TOTAL MOVES WENT IN GAME: %d", turn);
+    printf("\n %sTOTAL MOVES WENT IN GAME:%s %d%s",YELL,BLUE, turn,NORM);
     if(turn % 2 == 0){
         printf("\t%s[QUEEN'S TURN]",NORM);
     }else{
