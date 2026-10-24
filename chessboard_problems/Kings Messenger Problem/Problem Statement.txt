@@ -1,1 +1,6 @@
-// The King's Messenger
+// The King's Messenger : from (https://observablehq.com/@mcmcclur/the-kings-problem)
+
+By -  Mark McClure
+professor of mathematics at the University of North Carolina Asheville. 
+He has also done a fair amount of consulting work over the years focusing on scientific and data visualization. 
+Being Happy to be part of the first Observable Ambassador's cohort.
